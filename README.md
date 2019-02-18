@@ -1,5 +1,5 @@
 # NUSdipSA_StationeryMaintenanceSystem
-Full SDLC spanning an entire month; Developed a system to help facilitate stationery requests and maintenance of stationery inventory for the departments involved.
+Full SDLC spanning an entire month; Developed a inventory management system to facilitate stationery request and maintenance for department staff and Store Clerk (web and android native application)
 
 ------------------------------------------------------------
 Contributors:
