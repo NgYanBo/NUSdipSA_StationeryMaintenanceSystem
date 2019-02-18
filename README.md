@@ -4,11 +4,11 @@ Full SDLC spanning an entire month; Developed a system to help facilitate statio
 ------------------------------------------------------------
 Contributors:
 
-Aye Myint Swe
-Hana Nordin
-Muhammad Haffian Bin Osman
-Ng Yan Bo
-Ng Yoke Eng Cindy
-Soe Yadanar Ko Htet
-Thett Oo Eain
-Zar Aung Phyo
+Aye Myint Swe<br>
+Hana Nordin<br>
+Muhammad Haffian Bin Osman<br>
+Ng Yan Bo<br>
+Ng Yoke Eng Cindy<br>
+Soe Yadanar Ko Htet<br>
+Thett Oo Eain<br>
+Zar Aung Phyo<br>
